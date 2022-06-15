@@ -1,11 +1,11 @@
-package taller02.modelo;
+package guia05.problemaintegrador.modelo;
 
 import java.time.Instant;
 import java.util.ArrayList;
 import java.util.List;
 
-import taller02.excepciones.MasDeVeinteBienesException;
-import taller02.excepciones.NoPuedeProveerAPaisDistintoException;
+import guia05.problemaintegrador.excepciones.MasDeVeinteBienesException;
+import guia05.problemaintegrador.excepciones.NoPuedeProveerAPaisDistintoException;
 
 public class Factura implements Comparable<Factura>{
 	private static Integer ID_UNICO = 1;

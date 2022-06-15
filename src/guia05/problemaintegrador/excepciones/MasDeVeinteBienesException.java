@@ -1,4 +1,4 @@
-package taller02.excepciones;
+package guia05.problemaintegrador.excepciones;
 
 @SuppressWarnings("serial")
 public class MasDeVeinteBienesException extends Exception {

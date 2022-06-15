@@ -1,20 +1,20 @@
-package taller02.app;
+package guia05.problemaintegrador.app;
 
 import java.time.Instant;
 import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.List;
 
-import taller02.excepciones.MasDeVeinteBienesException;
-import taller02.excepciones.NoPuedeProveerAPaisDistintoException;
-import taller02.modelo.Bien;
-import taller02.modelo.Empresa;
-import taller02.modelo.Factura;
-import taller02.modelo.Localidad;
-import taller02.modelo.Pais;
-import taller02.modelo.Proveedor;
-import taller02.modelo.Provincia;
-import taller02.modelo.Responsable;
+import guia05.problemaintegrador.excepciones.MasDeVeinteBienesException;
+import guia05.problemaintegrador.excepciones.NoPuedeProveerAPaisDistintoException;
+import guia05.problemaintegrador.modelo.Bien;
+import guia05.problemaintegrador.modelo.Empresa;
+import guia05.problemaintegrador.modelo.Factura;
+import guia05.problemaintegrador.modelo.Localidad;
+import guia05.problemaintegrador.modelo.Pais;
+import guia05.problemaintegrador.modelo.Proveedor;
+import guia05.problemaintegrador.modelo.Provincia;
+import guia05.problemaintegrador.modelo.Responsable;
 
 public class App {
 

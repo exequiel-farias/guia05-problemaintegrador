@@ -1,4 +1,4 @@
-package taller02.modelo;
+package guia05.problemaintegrador.modelo;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -10,8 +10,15 @@ import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import taller02.excepciones.MasDeVeinteBienesException;
-import taller02.excepciones.NoPuedeProveerAPaisDistintoException;
+import guia05.problemaintegrador.excepciones.MasDeVeinteBienesException;
+import guia05.problemaintegrador.excepciones.NoPuedeProveerAPaisDistintoException;
+import guia05.problemaintegrador.modelo.Bien;
+import guia05.problemaintegrador.modelo.Factura;
+import guia05.problemaintegrador.modelo.Localidad;
+import guia05.problemaintegrador.modelo.Pais;
+import guia05.problemaintegrador.modelo.Proveedor;
+import guia05.problemaintegrador.modelo.Provincia;
+import guia05.problemaintegrador.modelo.Responsable;
 
 class FacturaTests {
 	Responsable r1,r2,r3;

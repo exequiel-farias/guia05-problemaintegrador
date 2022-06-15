@@ -1,4 +1,4 @@
-package taller02.modelo;
+package guia05.problemaintegrador.modelo;
 
 import java.util.ArrayList;
 import java.util.List;

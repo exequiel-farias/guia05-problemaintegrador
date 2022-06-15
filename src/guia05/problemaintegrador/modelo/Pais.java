@@ -1,4 +1,4 @@
-package taller02.modelo;
+package guia05.problemaintegrador.modelo;
 
 public class Pais extends Ubicacion{
 

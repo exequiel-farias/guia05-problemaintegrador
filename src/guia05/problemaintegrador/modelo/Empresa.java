@@ -1,4 +1,4 @@
-package taller02.modelo;
+package guia05.problemaintegrador.modelo;
 
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;

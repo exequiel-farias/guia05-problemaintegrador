@@ -1,4 +1,4 @@
-package taller02.modelo;
+package guia05.problemaintegrador.modelo;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -7,6 +7,13 @@ import java.util.ArrayList;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import guia05.problemaintegrador.modelo.Bien;
+import guia05.problemaintegrador.modelo.Localidad;
+import guia05.problemaintegrador.modelo.Pais;
+import guia05.problemaintegrador.modelo.Persona;
+import guia05.problemaintegrador.modelo.Proveedor;
+import guia05.problemaintegrador.modelo.Provincia;
 
 class PersonaTests {
 
